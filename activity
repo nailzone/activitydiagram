@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Diagram</title>
+</head>
+<body>
+<img src="nailzone/images-in-readme/Untitled Diagram. jpg">
+<p>This diagram shows the flow of the system that I will be creating , it is visually presents a series of actions or flow of control in my system.  First you need to open the app to and log in your account. There are three types of user in this app, the client, employee and last the admin. The clients job is to submit the project they want, see who is fit in his/her project by watching the people who bids in his project, select the one who he thinks is fit for it, after that he will contact the employee and make an agreement by themselves. Second type of user is the employee  and it’s job is to first view a project and search that is suitable for his/her skills, he/she will bid to the project he want to work  and propose to the client he/she is the best  for it ,  and also he will submit a project that he thinks the client would have a chance to choose him. The third user is the admin, this type of user manage the client and employees account, he can update, delete  the specific  type of user.  </p>
+</body>
+</html>
